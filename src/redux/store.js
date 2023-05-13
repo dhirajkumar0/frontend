@@ -16,4 +16,4 @@ const store = configureStore({
 
 export default store;
 
-export const server = "https://mbaburgerwala.herokuapp.com/api/v1";
+export const server = "https://mbaburgerwalas.vercel.app/api/v1";
